@@ -1,6 +1,9 @@
-# Kairo Setup Scripts
+# Setup Scripts
 
-This directory contains scripts to help you set up Agent Blueprint, Agent Identities, and Agent Users for the Kairo platform.
+> [!WARNING]
+> It is now recommended to use the [Microsoft Agent 365 DevTools CLI](https://github.com/microsoft/Agent365-DevTools) instead of the scripts in this repo to create blueprints, agent IDs, and agent users.
+
+This directory contains scripts to help you set up Agent Blueprint, Agent Identities, and Agent Users.
 
 ## Creating the Agent Blueprint
 

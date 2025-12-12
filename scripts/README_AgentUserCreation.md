@@ -46,6 +46,4 @@ https://login.microsoftonline.com/5369a35c-46a5-4677-8ff9-2e65587654e7/v2.0/admi
 
 Once this is done, you should be able to see the permissions granted in the Azure portal for your agent application.
 
-For MCP tools you need to get the resource id for Power Platform API (and Power Platform API - Test). To get these, search for these apps in your azure tenant, open the service principal and copy the application id. 
-
 Alternatively, you can manage permissions by going to your Agent Identity in Azure portal and navigating to Security > Permissions.

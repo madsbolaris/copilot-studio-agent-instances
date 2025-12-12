@@ -52,7 +52,7 @@ https://login.microsoftonline.com/{TenantId}/v2.0/adminconsent?client_id={AgentA
 https://login.microsoftonline.com/5369a35c-46a5-4677-8ff9-2e65587654e7/v2.0/adminconsent?client_id=a9c3e0c7-b2ce-46db-adf7-d60120faa0cd&scope=Mail.ReadWrite Mail.Send Chat.ReadWrite&redirect_uri=https://entra.microsoft.com/TokenAuthorize&state=xyz123
 ```
 
-**Example for non-Graph scopes** (Connectivity.Connections.Read needed for MCP Tools):
+**Example for non-Graph scopes**:
 ```
 https://login.microsoftonline.com/5369a35c-46a5-4677-8ff9-2e65587654e7/v2.0/adminconsent?client_id=416fa9f7-e69d-4e7b-8c8f-7b116634d34e&scope=8578e004-a5c6-46e7-913e-12f58912df43/Connectivity.Connections.Read&redirect_uri=https://entra.microsoft.com/TokenAuthorize&state=xyz123
 ```

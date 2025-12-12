@@ -1,5 +1,8 @@
 ## Creating the Agent Identity & Agent User
 
+> [!WARNING]
+> It is now recommended to use the [Microsoft Agent 365 DevTools CLI](https://github.com/microsoft/Agent365-DevTools) instead of the scripts in this repo to create blueprints, agent IDs, and agent users.
+
 This process will automatically create an Agent Identity (based on the Agent Blueprint Id) and the Agent User which is coming from the Agent Identity.
 
 To create the Agent Identity & Agent User, run this script in PowerShell:
